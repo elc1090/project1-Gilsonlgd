@@ -22,9 +22,9 @@ João Vitor Forgerini Beltrame
 - Google Chrome
 
 #### Créditos
-- ![Template](https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/)
-- ![Fantastic Awesome Icon Kit](https://fontawesome.com/icons)
-- ![Bootstrap Icon Kit](https://icons.getbootstrap.com/)
+- [Template](https://bootstrapmade.com/myportfolio-bootstrap-portfolio-website-template/)
+- [Fantastic Awesome Icon Kit](https://fontawesome.com/icons)
+- [Bootstrap Icon Kit](https://icons.getbootstrap.com/)
 
 #### Bastidores
 

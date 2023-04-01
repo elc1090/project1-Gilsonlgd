@@ -2,7 +2,7 @@
 
 ![Screenshot do projeto](assets/img/project_screenshot.jpeg).
 
-Acesso: https://instagram.com/joaov2300?igshid=MGNiNDI5ZTU=
+Acesso: https://elc1090.github.io/project1-Gilsonlgd/
 
 
 #### Desenvolvedor(a)
